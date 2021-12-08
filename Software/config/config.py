@@ -8,7 +8,7 @@ bandwidth = 41700
 codingRate = 8
 
 
-myName ="Bobricius"
+myName =""
 
 myGroup3 = 0x03
 myGroup2 = 0x02
